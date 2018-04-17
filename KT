@@ -15,3 +15,7 @@ Eda is exploratory data analysis. always is needed and is the start in every pro
 Know de data types, nulls , outliers , min max avg, distribution , unique values, etc.
 The goal of EDA isla data understand
 
+Hi Experts, I would like to ask if I have 73 instances from a dataset, 10 features and my class label is categorical no and yes..
+it's binary classification. The most suitable test option is train/test split or k-folds cross validation and  the reason why? 
+What are the best algorithms for binary classification. Thank you..
+
