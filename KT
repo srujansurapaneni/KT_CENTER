@@ -2,4 +2,16 @@
 AUTO ML
 NETWRIX
 ELK
+TALK TO BOOKS
+ANODOT
+DATACAMP.COM
+
+The roadmap is the following: Data wrangling -> EDA ----> Data Understanding
+-> Data cleaning -> Feature engineering ->
+-> Feature Selection -> and then model,
+fine tune and then evaluate. 
+
+Eda is exploratory data analysis. always is needed and is the start in every project.
+Know de data types, nulls , outliers , min max avg, distribution , unique values, etc.
+The goal of EDA isla data understand
 
