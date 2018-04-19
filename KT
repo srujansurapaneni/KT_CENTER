@@ -5,6 +5,9 @@ ELK
 TALK TO BOOKS
 ANODOT
 DATACAMP.COM
+TITUS - netflix content management system
+Katalon Studio - Testing
+
 
 The roadmap is the following: Data wrangling -> EDA ----> Data Understanding
 -> Data cleaning -> Feature engineering ->
