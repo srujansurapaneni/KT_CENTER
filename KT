@@ -7,7 +7,12 @@ ANODOT
 DATACAMP.COM
 TITUS - netflix content management system
 Katalon Studio - Testing
-
+Google Colab
+houseofbots.com
+SSD300 South Korea deep learning machine
+Quillbot
+Human Motion Analysis
+one shot encoding
 
 The roadmap is the following: Data wrangling -> EDA ----> Data Understanding
 -> Data cleaning -> Feature engineering ->
